@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Products integration" skipped="0" failures="0" errors="0" tests="1" assertions="2" time="0.6254988189998585">
+  <testcase name="test_0001_shows product's name" classname="Products integration" assertions="2" time="0.6254988189998585">
+  </testcase>
+</testsuite>

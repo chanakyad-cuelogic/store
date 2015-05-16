@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProductsHelper" skipped="1" failures="0" errors="0" tests="1" assertions="0" time="0.0014692150002701965">
+  <testcase name="test_0001_converts number to currency" classname="ProductsHelper" assertions="0" time="0.0014692150002701965">
+    <skipped type="test_0001_converts number to currency"/>
+  </testcase>
+</testsuite>
